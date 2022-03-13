@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-# @File    : xyData.py
-# @Author  : CJH
-# @Date    : 2019/4/9
-# @Software: PyCharm
-# @Desc    : 数据处理
 
 import csv
 from numpy import *

@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-# @File    : demo2.py
-# @Author  : CJH
-# @Date    : 2019/4/9
-# @Software: PyCharm
-# @Desc    : 天气PM2.5预测
 
 
 import csv
